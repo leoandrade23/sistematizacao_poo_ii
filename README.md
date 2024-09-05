@@ -14,7 +14,7 @@ Projeto de sistematização da disciplina Programação Orientada a Objetos II q
 
 ## Instalação
 1. Clonar o seguinte repositório
-```bash
+   ```bash
    git clone https://github.com/leoandrade23/sistematizacao_poo_ii.git
 
 Iniciar a classe ContactManager através de seu método main, aparecerá um menu com opções para adicionar, buscar, remover ou listar os contatos, bem como a opção para finalizar a operação.
